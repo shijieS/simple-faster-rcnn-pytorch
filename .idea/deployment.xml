@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="simple-faster-rcnn">
+    <serverData>
+      <paths name="simple-faster-rcnn">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ssm/ssj/github/pytorch/simple-faster-rcnn-pytorch" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ssm-py36-ngrok">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ssm/ssj/github/pytorch/simple-faster-rcnn-pytorch" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ssm@viphk.ngrok.org:10038">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

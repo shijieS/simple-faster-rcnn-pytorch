@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="884717cd-4d8d-4cd0-bb1c-0e1b8522fe1b" name="simple-faster-rcnn" url="http://viphk.ngrok.org">
+        <fileTransfer host="viphk.ngrok.org" port="10038" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="10038" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
